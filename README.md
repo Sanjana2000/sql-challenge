@@ -1,4 +1,4 @@
-# sql-challenge
+## sql-challenge
 DATA MODELING
 
 First, I created an ERD to visualize the tables using QuickDBD
